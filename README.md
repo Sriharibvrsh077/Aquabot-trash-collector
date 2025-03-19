@@ -44,8 +44,8 @@ Installation
 
 Clone the repository:
 
-git clone [https://github.com/your-repo-name.git](https://github.com/Sriharibvrsh077/Aquqbot)
-cd your-repo-name
+git clone https://github.com/Sriharibvrsh077/Aquabot
+cd Aquabot
 
 Install dependencies:
 
