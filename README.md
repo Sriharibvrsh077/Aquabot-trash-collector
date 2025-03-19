@@ -44,8 +44,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Sriharibvrsh077/Aquabot
-cd Aquabot
+https://github.com/Sriharibvrsh077/Aquabot-trash-collector
+cd Aquabot-trash-collector
 
 Install dependencies:
 
